@@ -35,8 +35,8 @@ Both scripts use the **diabetes dataset** from scikit-learn, which includes 442 
 ## Usage
 1. Run each script independently to train the respective model and view results:
    ```
-   python diabetes_regression_custom.py
-   python diabetes_regression_sklearn.py
+   jupyter-lab diabetes_regression_custom.py
+   jupyter-lab diabetes_regression_sklearn.py
    ```
 2. Each script outputs model performance metrics (e.g., Mean Squared Error) and may include additional analysis or visualizations.
 
